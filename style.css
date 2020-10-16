@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: pink;
+}
+.indexHeading{
+  margin-top:25%;
+}
+.orderButton{
+  font-size: 1.2em;
+}
