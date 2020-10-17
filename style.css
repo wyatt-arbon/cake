@@ -2,12 +2,24 @@ body{
   text-align: center;
   font-family: sans-serif;
   background-color: pink;
+  padding: 0;
+  margin: 0;
 }
 .indexHeading{
   margin-top:25%;
 }
 .orderButton{
   font-size: 1.2em;
+}
+.header{
+  background-color: white;
+  padding: 1.5%;
+  color: MediumVioletRed;
+  font-size: 1.2em;
+}
+h1{
+  margin:0;
+  padding:0;
 }
 .menuIcon{
   width: 150px;
