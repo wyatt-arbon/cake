@@ -10,5 +10,17 @@ body{
   font-size: 1.2em;
 }
 .menuIcon{
-  max-width: 25%;
+  width: 150px;
+}
+.menuList{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: space-between;
+}
+.menuItem{
+  margin: 2%;
+  /**  padding:0;
+  width: 20%;**/
 }
