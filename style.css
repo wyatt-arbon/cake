@@ -9,3 +9,6 @@ body{
 .orderButton{
   font-size: 1.2em;
 }
+.menuIcon{
+  max-width: 25%;
+}
